@@ -1,7 +1,7 @@
 import './App.css';
 import Countries from './Components/Countries';
 import SearchBar from './Components/SearchBar';
-import Region from './Region';
+import Region from './Components/Region';
 import { useState } from 'react';
 
 function App() {
